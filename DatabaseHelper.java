@@ -26,7 +26,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         db.execSQL("insert into user_table values(4560890123,'Sarthak',1500.01,'sarthak.05@gmail.com','XXXXXXXXXXXX4123','ABC76543210')");
         db.execSQL("insert into user_table values(5678901234,'Jagrati',2603.48,'jagrati.06@gmail.com','XXXXXXXXXXXX2345','BCA65432109')");
         db.execSQL("insert into user_table values(6789012345,'Vishal',945.16,'vishal.07@gmail.com','XXXXXXXXXXXX3452','CAB54321098')");
-        db.execSQL("insert into user_table values(7890123456,'Shelly',5936.00,'shelly.08@gmail.com','XXXXXXXXXXXX4523','ABC43210987')");
+        db.execSQL("insert into user_table values(7890123456,'Shely',5936.00,'shelly.08@gmail.com','XXXXXXXXXXXX4523','ABC43210987')");
         db.execSQL("insert into user_table values(8901234567,'Sweety',857.22,'sweety.09@gmail.com','XXXXXXXXXXXX5234','BCA32109876')");
         db.execSQL("insert into user_table values(9012345678,'Mahesh',4398.46,'mahesh.10@gmail.com','XXXXXXXXXXXX3456','CAB21098765')");
         db.execSQL("insert into user_table values(1234567809,'Sam',273.90,'sam.01@gmail.com','XXXXXXXXXXXX4563','ABC10987654')");
